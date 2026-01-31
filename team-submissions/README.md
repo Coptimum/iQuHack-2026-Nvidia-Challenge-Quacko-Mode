@@ -1,7 +1,7 @@
 ## Deliverables Checklist
 
 **Step 0:**
-The Project Lead should fork this repository and share the forked repository link with the NVIDIA judges in a DM on discord (`Monica-NVIDIA`, `Linsey-NV Mentor`, and `Iman`).  
+The Project Lead should fork this repository and share the forked repository link with the NVIDIA judges in a DM on discord (`Monica-NVIDIA`, `Linsey-NV Mentor`, and `Iman_nvidia`).  
 
 **Phase 1 Submission (Due 10pm eastern Sat Jan 31):**
 (To be judged to obtain access to GPUs with Brev credits)
