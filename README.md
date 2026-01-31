@@ -88,7 +88,7 @@ The desginated GPU Acceleration PIC on your team is responsible for majority of 
 
 For any questions or additional assistance using Brev, see the [Brev Console Reference](https://docs.nvidia.com/brev/latest/console.html) or reach out to the NVIDIA team on discord.
 
-## Submitting Instructions and Deadlines
+## Submission Instructions and Deadlines
 
 
 > **By 11am eastern time on Sat Jan 31: Team Intent** The Project Lead should fork this repository and share the link along with the team member's discord names with the judges in a DM on discord (do not post to the Discord channel unless you want all the other participants to see your work).  
